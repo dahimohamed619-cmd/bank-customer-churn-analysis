@@ -65,7 +65,12 @@ and what factors drive their decision to churn?
 ---
 
 ## 📷 Visualizations
-![Churn Analysis](churn_charts.png)
+<img width="1389" height="985" alt="image" src="https://github.com/user-attachments/assets/d0f3010d-724d-4f77-9807-e2097745c729" />
+<img width="1387" height="495" alt="image" src="https://github.com/user-attachments/assets/225b948e-e562-45e2-b171-767d01a5cb0d" />
+<img width="1389" height="494" alt="image" src="https://github.com/user-attachments/assets/882a8788-79b1-400d-b4a8-dfea145d2ba1" />
+
+
+
 
 ---
 
