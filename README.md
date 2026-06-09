@@ -69,7 +69,18 @@ and what factors drive their decision to churn?
 <img width="1387" height="495" alt="image" src="https://github.com/user-attachments/assets/225b948e-e562-45e2-b171-767d01a5cb0d" />
 <img width="1389" height="494" alt="image" src="https://github.com/user-attachments/assets/882a8788-79b1-400d-b4a8-dfea145d2ba1" />
 
+---
+## 💼 Business Recommendations
 
+1. **Germany** — Launch loyalty program to reduce 32.4% churn
+2. **France & Spain** — Maintain current service, low churn ✅
+3. **Female customers** — Partner with beauty brands for exclusive offers
+4. **Inactive members** — Send personalized offers to re-engage
+5. **Age 40-60** — Offer wealth management & retirement packages
+
+## ✅ Conclusion
+Bank loses 20.4% of customers annually.
+Focus retention efforts on Germany, females, and inactive members.
 
 
 ---
